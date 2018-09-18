@@ -1,2 +1,2 @@
-# visit tictechtoe.github.io
+https://jaichandrakanthreddy.github.io/tictechtoe/
 
