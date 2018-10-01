@@ -1,4 +1,2 @@
-# tictechtoe.github.io
-# tictechtoe.github.io
-# tictactoe
-# tictactoe
+# tictechtoe2k18.github.io/ttt
+
